@@ -16298,6 +16298,16 @@
   "RootNamespace": "MvcIntroViews",
   "Documents": [
     {
+      "FilePath": "/home/camila/Documentos/MvcIntroViews/Views/Operacoes/ResultadoSubtracao.cshtml",
+      "TargetPath": "Views\\Operacoes\\ResultadoSubtracao.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/camila/Documentos/MvcIntroViews/Views/Operacoes/Multiplicacao.cshtml",
+      "TargetPath": "Views\\Operacoes\\Multiplicacao.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/camila/Documentos/MvcIntroViews/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -16323,6 +16333,21 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/camila/Documentos/MvcIntroViews/Views/Operacoes/Divisao.cshtml",
+      "TargetPath": "Views\\Operacoes\\Divisao.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/camila/Documentos/MvcIntroViews/Views/Operacoes/ResultadoDivisao.cshtml",
+      "TargetPath": "Views\\Operacoes\\ResultadoDivisao.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/camila/Documentos/MvcIntroViews/Views/Operacoes/ResultadoMultiplicacao.cshtml",
+      "TargetPath": "Views\\Operacoes\\ResultadoMultiplicacao.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/camila/Documentos/MvcIntroViews/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -16340,6 +16365,11 @@
     {
       "FilePath": "/home/camila/Documentos/MvcIntroViews/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/camila/Documentos/MvcIntroViews/Views/Operacoes/Subtracao.cshtml",
+      "TargetPath": "Views\\Operacoes\\Subtracao.cshtml",
       "FileKind": "mvc"
     }
   ],

@@ -1,0 +1,18 @@
+@{
+    ViewData["Title"] = "Subtração";
+}
+
+<div>
+    <h3>Operação Subtrair</h3>
+    <p>Acesse o formulário a seguir para subtrair os dois números inseridos</p>
+
+    <form asp-controller="Operacoes" asp-action="ResultadoSubtracao" method="post">
+        <label for="n1">Número 1</label>
+        <input type="text" name="n1" id="n1">
+
+        <label for="n2">Número 2</label>
+        <input type="text" name="n2" id="n2">
+
+        <input type="submit" value="Subtrair">
+    </form>
+</div>

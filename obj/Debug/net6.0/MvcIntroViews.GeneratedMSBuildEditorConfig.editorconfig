@@ -23,12 +23,36 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/camila/Documentos/MvcIntroViews/Views/Operacoes/Divisao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3BlcmFjb2VzL0RpdmlzYW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/camila/Documentos/MvcIntroViews/Views/Operacoes/Multiplicacao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3BlcmFjb2VzL011bHRpcGxpY2FjYW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/camila/Documentos/MvcIntroViews/Views/Operacoes/ResultadoDivisao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3BlcmFjb2VzL1Jlc3VsdGFkb0RpdmlzYW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/camila/Documentos/MvcIntroViews/Views/Operacoes/ResultadoMultiplicacao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3BlcmFjb2VzL1Jlc3VsdGFkb011bHRpcGxpY2FjYW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/camila/Documentos/MvcIntroViews/Views/Operacoes/ResultadoSoma.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3BlcmFjb2VzL1Jlc3VsdGFkb1NvbWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/camila/Documentos/MvcIntroViews/Views/Operacoes/ResultadoSubtracao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3BlcmFjb2VzL1Jlc3VsdGFkb1N1YnRyYWNhby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/camila/Documentos/MvcIntroViews/Views/Operacoes/Somar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3BlcmFjb2VzL1NvbWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/camila/Documentos/MvcIntroViews/Views/Operacoes/Subtracao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3BlcmFjb2VzL1N1YnRyYWNhby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/camila/Documentos/MvcIntroViews/Views/Shared/Error.cshtml]
