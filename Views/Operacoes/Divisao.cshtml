@@ -1,0 +1,18 @@
+@{
+    ViewData["Title"] = "Divisão";
+}
+
+<div>
+    <h3>Operação Dividir</h3>
+    <p>Acesse o formulário a seguir para dividir os dois números a seguir</p>
+
+    <form asp-controller="Operacoes" asp-action="ResultadoDivisao" method="post">
+        <label for="n1">Número 1</label>
+        <input type="text" name="n1" id="n1">
+
+        <label for="n2">Número 2</label>
+        <input type="text" name="n2" id="n2">
+
+        <input type="submit" value="Dividir">
+    </form>
+</div>
